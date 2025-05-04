@@ -6,23 +6,6 @@
 
 ## Proje Dizini
 
-/mobile-frontend-task
-│
-├── assets/
-│   ├── icons/
-│   └── images/
-│
-├── page/
-│   ├── CompanyDetails.html
-│   ├── Home.html
-│   └── Messages.html
-│
-├── script/
-│   └── main.js
-│
-├── style/
-│   ├── companyDetails.css
-│   ├── generic.css
-│   ├── home.css
-│   └── messages.css
+![image](https://github.com/user-attachments/assets/8ff7996c-cfd5-43aa-82dd-a19729fd183b)
+
 
