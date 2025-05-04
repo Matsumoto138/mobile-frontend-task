@@ -1,0 +1,129 @@
+.container {
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 1rem;
+  }
+
+  .profile-card {
+    background: white;
+    padding: 1rem;
+    border-radius: 15px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    position: relative;
+    margin-top: 1rem;
+  }
+
+  .profile-header {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+  }
+
+  .profile-header img {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+  }
+
+  .profile-info h2 {
+    margin: 0;
+    font-size: 18px;
+  }
+
+  .rating {
+    color: gold;
+    font-size: 14px;
+  }
+
+  .subtitle {
+    font-size: 14px;
+    color: #777;
+    margin-top: 5px;
+  }
+
+  .tabs {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 1rem;
+    background: #f0f0f0;
+    border-radius: 10px;
+    padding: 0.5rem 0;
+  }
+
+  .tab {
+    font-size: 14px;
+    color: #333;
+    cursor: pointer;
+  }
+
+  .contact-card {
+    margin-top: 1rem;
+    background: white;
+    border-radius: 15px;
+    padding: 1rem;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
+  }
+
+  .contact-card p {
+    margin: 5px 0;
+  }
+
+  .btn-group {
+    display: flex;
+    gap: 1rem;
+    margin-top: 1rem;
+  }
+
+  .btn {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 120px;
+    height: 40px;
+    padding: 0.5rem;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    font-weight: bold;
+    text-align: center;
+  }
+
+  .btn.message {
+    background: #e0f0ff;
+    color: #007bff;
+  }
+
+  .btn.appointment {
+    background: #e0f0ff;
+    color: #007bff;
+  }
+
+  .section {
+    background: white;
+    border-radius: 15px;
+    padding: 1rem;
+    margin-top: 1rem;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
+  }
+
+  .section h3 {
+    margin: 0 0 10px;
+    font-size: 16px;
+  }
+
+  .services p {
+    margin: 5px 0;
+  }
+
+  .see-all {
+    color: #007bff;
+    font-size: 14px;
+    margin-top: 0.5rem;
+    display: block;
+    text-decoration: none;
+  }
+
+  .about p {
+    font-size: 14px;
+    color: #444;
+  }
